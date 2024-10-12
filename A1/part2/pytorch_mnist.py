@@ -215,4 +215,4 @@ for act in ('relu', 'tanh', 'sigmoid', 'leaky-relu'):
                 writer.close()
 
 # To View in Tensorboard:
-# %tensorboard --logdir ./runs/final_submission
+# %tensorboard --logdir ./log/final_submission
